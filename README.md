@@ -1,5 +1,6 @@
 # ProjetoArduino
 
+ Definição do Arduino
 1. Introdução
 O Arduino é uma plataforma de prototipagem eletrônica de código aberto, composta por hardware e software fáceis de usar. 
 Ela foi criada para permitir que artistas, designers, estudantes e entusiastas construam projetos interativos de forma acessível e intuitiva. A principal característica do Arduino é sua capacidade de conectar componentes eletrônicos físicos (como sensores e atuadores) a programas que controlam seu comportamento por meio de código.
@@ -58,3 +59,13 @@ Exemplos de aplicações práticas:
 
 6. Conclusão
 O Arduino revolucionou a forma como a eletrônica é ensinada e aplicada, tornando o desenvolvimento de sistemas interativos acessível a todos. Com uma comunidade global ativa e inúmeros recursos disponíveis, o Arduino é uma ferramenta essencial para quem deseja aprender sobre eletrônica, programação e automação de forma prática e criativa.
+
+
+Objetivo do Repositório
+Este repositório foi criado para armazenar e documentar projetos desenvolvidos com **Arduino**, com fins educacionais e demonstrativos.  
+Cada pasta contém seu próprio código, imagens do circuito e uma explicação detalhada de funcionamento.
+
+
+Estrutura de Pastas
+- **Projeto1/** → Contém o circuito de LEDs sequenciais.  
+- **Projeto2/** → Contém o sistema de controle de nível de tanque com sensor ultrassônico.
