@@ -73,3 +73,10 @@ Cada pasta contém seu próprio código, imagens do circuito e uma explicação 
 ## Estrutura de Pastas
 - **Projeto1/** → Contém o circuito de LEDs sequenciais.  
 - **Projeto2/** → Contém o sistema de controle de nível de tanque com sensor ultrassônico.
+
+  ## 👥 Autores
+- Felipe Teixeira
+- Gabriel Medeiros  
+- Paulo Roberto
+- Samuel Henrique
+- Vinicius Garofalo
