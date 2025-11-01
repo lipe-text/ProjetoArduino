@@ -61,9 +61,13 @@ Exemplos de aplicações práticas:
 O Arduino revolucionou a forma como a eletrônica é ensinada e aplicada, tornando o desenvolvimento de sistemas interativos acessível a todos. Com uma comunidade global ativa e inúmeros recursos disponíveis, o Arduino é uma ferramenta essencial para quem deseja aprender sobre eletrônica, programação e automação de forma prática e criativa.
 
 
+
+
 ## Objetivo do Repositório
 Este repositório foi criado para armazenar e documentar projetos desenvolvidos com **Arduino**, com fins educacionais e demonstrativos.  
 Cada pasta contém seu próprio código, imagens do circuito e uma explicação detalhada de funcionamento.
+
+
 
 
 ## Estrutura de Pastas
