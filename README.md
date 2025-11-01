@@ -40,15 +40,15 @@ Exemplos de aplicações práticas:
   
 5. Vantagens e Limitações
 
-Vantagens                                              Limitações
+Vantagens                                           .   Limitações
 
-Facilidade de uso e programação.                       Baixo poder de processamento comparado a microcontroladores avançados.
+Facilidade de uso e programação.                    .   Baixo poder de processamento comparado a microcontroladores avançados.
 
-Grande comunidade de suporte.                          Memória limitada para projetos muito grandes.
+Grande comunidade de suporte.                       .   Memória limitada para projetos muito grandes.
 
-Compatibilidade com diversos sensores e módulos.       Não indicado para aplicações críticas ou industriais de alta complexidade.
+Compatibilidade com diversos sensores e módulos.    .   Não indicado para aplicações críticas ou industriais de alta complexidade.
 
-Custo acessível.
+Custo acessível                                     .
 
 
 6. Conclusão
