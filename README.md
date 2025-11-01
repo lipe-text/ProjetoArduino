@@ -1,12 +1,12 @@
 # ProjetoArduino
 
- Definição do Arduino
-1. Introdução
+## Definição do Arduino
+1. **Introdução**
 O Arduino é uma plataforma de prototipagem eletrônica de código aberto, composta por hardware e software fáceis de usar. 
 Ela foi criada para permitir que artistas, designers, estudantes e entusiastas construam projetos interativos de forma acessível e intuitiva. A principal característica do Arduino é sua capacidade de conectar componentes eletrônicos físicos (como sensores e atuadores) a programas que controlam seu comportamento por meio de código.
 
 
-2. Estrutura do Hardware
+2. **Estrutura do Hardware**
 O hardware do Arduino consiste em uma placa de circuito impresso com um microcontrolador — o 'cérebro' do sistema — responsável por executar instruções contidas no código carregado. Existem diversos modelos de placas, sendo os mais comuns o Arduino Uno, Mega e Nano.
 Principais componentes do hardware:
 - Microcontrolador: geralmente da família ATmega (como o ATmega328P).
@@ -17,7 +17,7 @@ Principais componentes do hardware:
 - Regulador de tensão: estabiliza a energia elétrica que alimenta a placa.
 
 
-3. Software e Linguagem de Programação
+3. **Software e Linguagem de Programação**
 O ambiente de desenvolvimento integrado (IDE) do Arduino é utilizado para escrever, compilar e enviar códigos para a placa. A linguagem de programação é baseada em C/C++, com algumas simplificações que tornam o aprendizado mais acessível.
 Principais funções da linguagem Arduino:
 - setup(): executada uma vez ao iniciar o programa; usada para configurações 	iniciais.
@@ -28,7 +28,7 @@ Principais funções da linguagem Arduino:
 - delay(ms): pausa o programa por um tempo em milissegundos.
 
 
-4. Aplicações do Arduino
+4. **Aplicações do Arduino**
 O Arduino é amplamente utilizado em projetos educacionais, industriais e de pesquisa. Por ser versátil, ele permite o desenvolvimento de sistemas de automação, robótica e Internet das Coisas (IoT).
 Exemplos de aplicações práticas:
 - Controle de iluminação automática.
@@ -39,7 +39,7 @@ Exemplos de aplicações práticas:
 - Impressoras 3D e drones.
 
   
-5. Vantagens e Limitações
+5. **Vantagens e Limitações**
 
 *Vantagens*
 
@@ -57,15 +57,15 @@ Exemplos de aplicações práticas:
 - Não indicado para aplicações críticas ou industriais de alta complexidade.
 
 
-6. Conclusão
+6. **Conclusão**
 O Arduino revolucionou a forma como a eletrônica é ensinada e aplicada, tornando o desenvolvimento de sistemas interativos acessível a todos. Com uma comunidade global ativa e inúmeros recursos disponíveis, o Arduino é uma ferramenta essencial para quem deseja aprender sobre eletrônica, programação e automação de forma prática e criativa.
 
 
-Objetivo do Repositório
+## Objetivo do Repositório
 Este repositório foi criado para armazenar e documentar projetos desenvolvidos com **Arduino**, com fins educacionais e demonstrativos.  
 Cada pasta contém seu próprio código, imagens do circuito e uma explicação detalhada de funcionamento.
 
 
-Estrutura de Pastas
+## Estrutura de Pastas
 - **Projeto1/** → Contém o circuito de LEDs sequenciais.  
 - **Projeto2/** → Contém o sistema de controle de nível de tanque com sensor ultrassônico.
