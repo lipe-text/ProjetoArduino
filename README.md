@@ -50,9 +50,7 @@ Custo acessível
 *Limitações*
 
 Baixo poder de processamento comparado a microcontroladores avançados.
-
 Memória limitada para projetos muito grandes.
-
 Não indicado para aplicações críticas ou industriais de alta complexidade.
 
 
