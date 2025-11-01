@@ -42,15 +42,22 @@ Exemplos de aplicações práticas:
 
 *Vantagens*
 
-Facilidade de uso e programação.                      
-Grande comunidade de suporte.                        
-Compatibilidade com diversos sensores e módulos.      
+
+Facilidade de uso e programação.
+
+Grande comunidade de suporte.
+
+Compatibilidade com diversos sensores e módulos. 
+
 Custo acessível     
 
 *Limitações*
 
-Baixo poder de processamento comparado a microcontroladores avançados.
+
+Baixo poder de processamento comparado a microcontroladores avançados. 
+
 Memória limitada para projetos muito grandes.
+
 Não indicado para aplicações críticas ou industriais de alta complexidade.
 
 
